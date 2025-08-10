@@ -3,7 +3,7 @@
 ### About me
 🙋‍♂️ I'm passionate about learning and exploring new technologies. I love practicing my coding skills, building pet projects, and constantly striving to write cleaner, more readable code. I'm always focused on achieving great results. <br />
 🤝 I am friendly, non-conflict, and communicate well with different people, fitting easily into any team. <br />
-✉️ You can contact me through [Email](mailto:rpochepetskyi@gmail.com) or [Telegram](https://t.me/r0m4n101). I'll get back to you as soon as I can!
+✉️ You can contact me through [Email](mailto:rpochepetskyi@gmail.com). I'll get back to you as soon as I can!
 
 ### My Skills
 <!-- Programming languages -->
@@ -62,6 +62,7 @@
 <br />
 
 <!-- DevOps -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
