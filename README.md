@@ -69,4 +69,4 @@
 
 ### Coding Profiles
 [![Codewars](https://www.codewars.com/users/romandev101/badges/large)](https://www.codewars.com/users/romandev101) <br />
-![My LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/vHaYC80epD?theme=dark)
+![My LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/vHaYC80epD?theme=neutral)
